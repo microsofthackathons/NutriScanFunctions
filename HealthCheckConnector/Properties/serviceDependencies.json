@@ -2,7 +2,7 @@
   "dependencies": {
     "storage1": {
       "type": "storage",
-      "connectionId": "DefaultEndpointsProtocol=https;AccountName=nutriscanreport;AccountKey=c5wZOaZJ21irhrTrHifL6Y0SRZi/g2Ltq8h4u2eSLwNfvwQ8p2flk9FuhfxUCzIo8JEsd76zl4lQ+AStPnL7ew==;EndpointSuffix=core.windows.net"
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=nutriscanreport;AccountKey={Your storage Account Key};EndpointSuffix=core.windows.net"
     },
     "appInsights1": {
       "type": "appInsights",
